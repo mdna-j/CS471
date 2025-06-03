@@ -1,2 +1,1 @@
-# CS471
-Introduction to Artificial Intelligence 
+Coding in Python using Google CoLab
